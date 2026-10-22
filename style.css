@@ -59,3 +59,9 @@ h2{
     padding: 20px;
     font-family: 'Cursed Timer', sans-serif;
 }
+
+.buttons button:hover{
+    background-color: #9AABD8;
+    color: #080001;
+    cursor: pointer;
+}
