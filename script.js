@@ -24,3 +24,8 @@ function add2guest(){
 function add3guest(){
     guestEl.textContent = Number(guestEl.textContent) + 3
 }
+
+function reset(){
+    homeEl.textContent = 0
+    guestEl.textContent = 0
+}
