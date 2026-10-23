@@ -82,3 +82,8 @@ h2{
     color: #080001;
     cursor: pointer;
 }
+
+.leader{
+    border: 4px solid #13e97e;
+    border-radius: 5px;
+}
